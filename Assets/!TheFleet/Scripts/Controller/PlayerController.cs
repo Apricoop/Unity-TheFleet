@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Eraslank.Util;
+using Burki.Util;
 using UnityEngine.Events;
 
 public class PlayerController : MonoBehaviourSingleton<PlayerController>

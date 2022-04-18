@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 using System.Linq;
-using Eraslank.Util;
+using Burki.Util;
 
 public class Bullet : MonoBehaviour, IPoolable
 {

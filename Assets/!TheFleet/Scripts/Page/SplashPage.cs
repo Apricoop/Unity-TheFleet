@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using DG.Tweening;
-using Eraslank.Util;
+using Burki.Util;
 
 public class SplashPage : Page, IConfigurablePage
 {
