@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e1d29e1c874bba4b81457c0a67f866e, type: 3}
+  m_Name: GreenAlien
+  m_EditorClassIdentifier: 
+  alienType: 0
+  alienColor: {r: 0, g: 1, b: 0.050822496, a: 1}
+  alienHealth: 1
+  score: 1

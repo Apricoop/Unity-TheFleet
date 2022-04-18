@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0c9b24f7b08c58448d7c082c525960f, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  levelId: 1
+  spawnDelay: 2
+  spawnDelayMin: 1
+  spawnDelayDecreaseBy: 0.1
+  randomizeAmount: 0
+  alienAmountBetween: {x: 0, y: 0}
+  randomizeOrder: 1
+  aliens: 00000000000000000000000000000000000000000000000000000000000000000000000000000000010000000100000001000000010000000100000001000000010000000100000002000000020000000200000002000000020000000200000002000000
